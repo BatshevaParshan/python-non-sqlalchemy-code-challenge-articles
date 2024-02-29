@@ -114,3 +114,4 @@ class TestArticle:
         assert len(Article.all) == 2
         assert article_1 in Article.all
         assert article_2 in Article.all
+        
